@@ -8,3 +8,5 @@
 2.Run-time Polymorphism
 #### Interface Programs
 #### Array Programs
+#### Polymorphism
+#### Sorting
